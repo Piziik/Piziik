@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piziik&label=Profile%20views&color=0e75b6&style=flat" alt="piziik" /> </p>
 
-- 🌱 I’m currently learning **Python and C++**
+- 🌱 I’m currently learning **Python, C++ and C**
 
 - 📫 How to reach me **doffe.gabrielle@gmail.com**
-
-- ⚡ Fun fact **I like spiders 👉​👈​**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
