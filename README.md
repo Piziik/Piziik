@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piziik</h1>
+<h1 align="center">Hi 👋, I'm Goboui</h1>
 <h3 align="center">I'm a software development student at ESIEE-IT.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
